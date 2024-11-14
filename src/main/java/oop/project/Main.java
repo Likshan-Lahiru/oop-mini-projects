@@ -5,4 +5,3 @@ public class Main {
         AppInitializer.main(args);
     }
 }
-
